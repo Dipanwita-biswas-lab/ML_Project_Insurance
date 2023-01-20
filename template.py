@@ -1,5 +1,10 @@
 # to create a template for the directory structure
 
+# git clone 'https://github.com/Dipanwita-biswas-lab/ML_Project_Insurance.git'
+#git add .
+#git commit -m "folder structure and data dump in database completed"
+
+#git push origin main
 
 import os
 from pathlib import Path
